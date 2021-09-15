@@ -4,7 +4,7 @@ description: hooks
 
 # react hooks
 
-## 遗留问题
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
