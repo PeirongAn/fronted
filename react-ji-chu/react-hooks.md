@@ -6,7 +6,7 @@ description: hooks
 
 ## 基础问题
 
-1. useEffect 和useState
+1. useEffect 和useState XXXX
 
 ```jsx
 $let count = 0;
