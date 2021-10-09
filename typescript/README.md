@@ -1,0 +1,6 @@
+---
+description: ts learning
+---
+
+# TypeScript
+

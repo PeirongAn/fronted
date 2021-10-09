@@ -7,4 +7,7 @@
   * [路由与网络权限](antd-pro-v5/lu-you-yu-wang-luo-quan-xian.md)
   * [网络请求](antd-pro-v5/wang-luo-qing-qiu.md)
   * [简易数据流](antd-pro-v5/usemodel.md)
+* [TypeScript](typescript/README.md)
+  * [泛型](typescript/fan-xing.md)
+  * [interface vs type](typescript/interface-vs-type.md)
 
