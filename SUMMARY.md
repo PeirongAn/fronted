@@ -13,4 +13,7 @@
   * [interface vs type](typescript/interface-vs-type.md)
 * [JS](js.md)
 * [JS](js-1/README.md)
+  * [类型转换相关问题](js-1/lei-xing-zhuan-huan-xiang-guan-wen-ti.md)
+  * [原型到原型链](js-1/yuan-xing-dao-yuan-xing-lian.md)
   * [this指针问题](js-1/this-zhi-zhen-wen-ti.md)
+  * [闭包](js-1/bi-bao.md)
